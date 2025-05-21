@@ -76,10 +76,6 @@ You can also modify the default settings at the top of `wallet_finder.py`:
 * For full scanning of hidden and system folders, run the script as **Administrator**.
 * If you encounter `PermissionError`, ensure you have the proper rights or exclude protected system paths if desired.
 
-## License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Acknowledgments
 
 * Inspired by the need to recover lost or forgotten cryptocurrency wallets from backup drives.
